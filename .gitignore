@@ -1,0 +1,25 @@
+# Data
+data/
+blood-cells-image-dataset.zip
+
+# Model weights (too large for GitHub)
+outputs/model.pth
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Gradio
+.gradio/
+
+# HuggingFace space (separate repo)
+hf-space/
+
+# Environment
+.env
+venv/
